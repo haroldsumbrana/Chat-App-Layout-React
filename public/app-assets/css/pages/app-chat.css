@@ -490,3 +490,6 @@
     display: inline-flex !important;
   }
 }
+.chat-application .chat-sidebar .chat-sidebar-list-wrapper {
+  overflow: auto !important;
+}
