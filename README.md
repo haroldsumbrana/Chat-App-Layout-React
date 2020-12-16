@@ -1,5 +1,5 @@
 #View Site
-[https://chatapp-layout.netlify.app/
+[(https://chatapp-layout.netlify.app/).
 
 # Getting Started with Create React App
 
