@@ -492,4 +492,5 @@
 }
 .chat-application .chat-sidebar .chat-sidebar-list-wrapper {
   overflow: auto !important;
+  overflow-x: hidden !important;
 }
